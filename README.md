@@ -12,6 +12,7 @@ Desenvolvi uma série de dashboards utilizando a plataforma Metabase, com o obje
     <img src="./images/Orders1.png" alt="Order1" width="500"/>
     <img src="./images/Orders2.png" alt="Order2" width="500"/>
 </div>
+
 ### Users:
 + Total de Usuários
 + Crescimento Anual
