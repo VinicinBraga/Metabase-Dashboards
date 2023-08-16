@@ -9,8 +9,8 @@ Desenvolvi uma série de dashboards utilizando a plataforma Metabase, com o obje
 + Vendas por Local e Categoria
 + Dentre outros...
 <div>
-    <img src="./images/Orders1.png" alt="Order1" width="500"/>
-    <img src="./images/Orders2.png" alt="Order2" width="500"/>
+    <img src="./images/Orders1.png" alt="Order1" width="400"/>
+    <img src="./images/Orders2.png" alt="Order2" width="400"/>
 </div>
 
 ### Users:
@@ -19,8 +19,8 @@ Desenvolvi uma série de dashboards utilizando a plataforma Metabase, com o obje
 + Feedbacks e Reviews
 + Dentre outros...
 <div>
-    <img src="./images/Users1.png" alt="Users1" width="500"/>
-    <img src="./images/Users2.png" alt="Users2" width="500"/>
+    <img src="./images/Users1.png" alt="Users1" width="400"/>
+    <img src="./images/Users2.png" alt="Users2" width="400"/>
 </div>
 
 ## Contato
